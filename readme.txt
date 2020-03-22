@@ -1,0 +1,1 @@
+Tämä on Henkun ja Karin harjoitusprojekti.
