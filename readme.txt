@@ -1,1 +1,1 @@
-Tämä on Henkun ja Karin harjoitusprojekti.
+Tama on Henkun ja Karin harjoitusprojekti.
