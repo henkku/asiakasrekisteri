@@ -3,7 +3,7 @@
     <setAttribute key="org.eclipse.debug.core.LAUNCH_MODES">
         <setEntry value="run"/>
     </setAttribute>
-    <booleanAttribute key="M2_DEBUG_OUTPUT" value="false"/>
+    <booleanAttribute key="M2_DEBUG_OUTPUT" value="true"/>
     <stringAttribute key="M2_GOALS" value="appengine:devserver"/>
     <booleanAttribute key="M2_NON_RECURSIVE" value="false"/>
     <booleanAttribute key="M2_OFFLINE" value="false"/>
